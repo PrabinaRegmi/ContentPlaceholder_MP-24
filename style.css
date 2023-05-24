@@ -55,13 +55,13 @@ img {
   display: flex;
 }
 
-.profile-img {
+.profile_img {
   width: 40px;
   height: 40px;
   border-radius: 50%;
   overflow: hidden;
 }
-.profile-img img {
+.profile_img img {
   height: 100%;
 }
 
